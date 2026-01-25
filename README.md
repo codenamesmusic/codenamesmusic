@@ -1,32 +1,16 @@
-# Hello, I'm CodenameBALDI.
+# Hi, I'm CodenameBALDI.
+I create games, write scripts, and produce music.
 
-I am a game developer, widely known as the creator of "CodenameBALDI's Educational School!"
+## Skills
 
-I specialize in game development using:
+### Programming & Game Development
+- Languages: C, C++, C#  
+- Engines: Unity  
+- Graphics: 2D/3D pipelines, procedural generation  
+- Audio: FL Studio, Ableton, audio manipulation  
 
-- **Languages:** C#, C, C++, Python  
-- **Engine:** Unity
+### Tools & Software
+- Custom engines, procedural systems, development pipelines  
 
----
-## Main Project: 
-### CodenameBALDI's Educational School 
-![Download Now on itch.io!](https://codenamebaldee.itch.io/codenamebaldis-educational-school/header-0.png)
-
-A survival horror-stealth game inspired by 90’s edutainment.
-
----
-
-## 🛠️ Skills & Tools
-
-| Languages | Engine | Tools |
-|-----------|--------|-------|
-| C# | Unity | Git & GitHub |
-| C |  Godot | Anim8or |
-| C++ | | Photoshop / paint.net |
-| Python | | Audacity / FL Studio |
-
----
-
-## 📈 GitHub Stats
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=CodenameBALDI&show_icons=true&theme=radical)
+### Platforms
+- Windows, cross-platform development
