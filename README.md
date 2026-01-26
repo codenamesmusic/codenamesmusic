@@ -6,11 +6,11 @@ I create games, write scripts, and produce music.
 ### Programming & Game Development
 - Languages: C, C++, C#  
 - Engines: Unity  
-- Graphics: 2D/3D pipelines, procedural generation  
+- Graphics: custom 3D rendering engines, procedural generation  
 - Audio: FL Studio, Ableton, audio manipulation  
 
 ### Tools & Software
-- Custom engines, procedural systems, development pipelines  
+- Unity engines/starters, procedural systems, development pipelines  
 
 ### Platforms
 - Windows, cross-platform development
