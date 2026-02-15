@@ -1,5 +1,5 @@
 # Hi, I'm CodenameBALDI.
-I create games, write scripts, and produce music.
+I create music, games, program and upload random stuff here for fun!
 
 ## Skills
 
