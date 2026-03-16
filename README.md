@@ -1,4 +1,4 @@
-# Hi, I'm CodenameBALDI.
+# Hi, I'm Codename.
 I create music, games, program and upload random stuff here for fun!
 
 ## Skills
